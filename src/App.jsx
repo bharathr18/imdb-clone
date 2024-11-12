@@ -23,3 +23,6 @@ function App() {
 }
 
 export default App
+
+// https://developer.themoviedb.org/reference/intro/getting-started
+// https://api.themoviedb.org/3/movie/popular?api_key=2f63c404e761fbb9a9039bb6ba9ec2da&language=en-US&page=1
